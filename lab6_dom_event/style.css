@@ -1,0 +1,9 @@
+.highlight { 
+  color: #f80000; 
+  background-color: #000000; 
+  border-left: 4px solid #3478c8; 
+  padding: 12px; 
+} 
+.teks-besar {
+    font-size: 1.4rem;
+} 
